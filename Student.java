@@ -11,5 +11,7 @@ public class Student {
          System.out.println("WELCOME TO JENKINS");
         System.out.println("JENKINS WEBHOOK JOB");
         System.out.println("WEBHOOK ");
+        System.out.println("This Job is completed ");
+        System.out.println("Thanks!!! ");
     }
 }
